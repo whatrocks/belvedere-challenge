@@ -1,0 +1,26 @@
+{
+  "name": "belvedere-challenge",
+  "version": "0.0.1",
+  "description": "race website for Belvedere Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatrocks/belvedere-challenge.git"
+  },
+  "keywords": [
+    "race",
+    "running"
+  ],
+  "author": "Charlie Harrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whatrocks/belvedere-challenge/issues"
+  },
+  "homepage": "https://github.com/whatrocks/belvedere-challenge#readme",
+  "dependencies": {
+    "syte": "^0.0.1-beta.13"
+  }
+}
