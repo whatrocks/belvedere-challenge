@@ -46,8 +46,6 @@ The Belvedere Challenge is a race that celebrates the public lanes (aka "secret 
 
 ![3d](/img/bc-2/3d.jpeg)
 
-![logo](/img/bc-2/logo.jpeg)
-
 ---
 
 ### B.C. I (2023)
