@@ -2,6 +2,27 @@
   box-sizing: border-box;
 }
 
-img {
-  max-width: 800px;
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(150px, 1fr)
+  ); /* Responsive grid */
+  gap: 16px; /* Space between items */
+  padding: 16px;
+}
+
+/* Target <p> tags that are siblings of the .image-grid */
+.image-grid ~ p {
+  margin: 0; /* Remove default margins on <p> */
+  display: contents; /* Allow the child <img> to behave as if it were directly inside the grid */
+}
+
+/* Style the images */
+.image-grid ~ p img {
+  width: 400px; /* Ensure images fill their grid cell */
+  height: 400px; /* Consistent height for all images */
+  object-fit: cover; /* Crop images to maintain aspect ratio */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
