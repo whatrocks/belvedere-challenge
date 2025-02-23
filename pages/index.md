@@ -16,7 +16,7 @@ The Belvedere Challenge is a race that celebrates the public lanes (aka "secret 
 
 ### B.C. III (2025)
 
-* [The Ark - "Second annual Belvedere Challenge fun run of walking lanes is Feb. 10"](https://www.thearknewspaper.com/live/fun-run-conquers-city-s-walking-lanes)
+* [The Ark - "Fun Run Conquers City's Walking Lanes"](https://www.thearknewspaper.com/live/fun-run-conquers-city-s-walking-lanes)
 
 ![before](/img/bc-3/before.jpeg)
 
