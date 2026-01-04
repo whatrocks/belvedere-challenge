@@ -1,20 +1,40 @@
 ---
 title: Belvedere Challenge
 ---
-# Belvedere Challenge
 
-The Belvedere Challenge is a race that celebrates the public lanes (aka "secret stairways") of Belvedere, California. The Belvedere Challenge traverses every single publicly-accessible two-way lane on Belvedere Island and Corinthian Island! Anyone can join!
+<p align="center">
+  <img src="/img/logo.png" width="200"/>
+</p>
 
-## The Route
+<div class="marquee">
+  <span>Sign-up <a href="https://tinyurl.com/belvederechallenge2026" target="_blank">here</a> for the 2026 race (Feb 7, 2026)!</span>
+</div>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=180T8iAfddyyzAeLsX6b4ebeT0RwEajA&ehbc=2E312F" width="640" height="480"></iframe>
+<main class="content">
 
+The Belvedere Challenge is a race celebrating the public lanes (aka "secret stairways") of Belvedere, California. The Belvedere Challenge traverses every single publicly-accessible two-way lane on Belvedere Island and Corinthian Island! Anyone can join!
 
-## Gallery
+# The Route
+
+<div class="map-embed">
+  <iframe
+    src="https://www.google.com/maps/d/embed?mid=180T8iAfddyyzAeLsX6b4ebeT0RwEajA&ehbc=2E312F"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
+
+# Races
 
 <div class="image-grid"></div>
 
-### B.C. III (2025)
+## B.C. IV (Feb. 7, 2026)
+
+Sign ups are live! It's going to be a great day! Sign up for [Belvedere Challenge IV here](https://tinyurl.com/belvederechallenge2026).
+
+---
+
+## B.C. III (Feb. 15, 2025)
 
 * [The Ark - "Fun Run Conquers City's Walking Lanes"](https://www.thearknewspaper.com/live/fun-run-conquers-city-s-walking-lanes)
 
@@ -48,8 +68,9 @@ The Belvedere Challenge is a race that celebrates the public lanes (aka "secret 
 
 ![westshore](/img/bc-3/westshore.jpeg)
 
+---
 
-### B.C. II (2024)
+## B.C. II (2024)
 
 * [The Ark - "Second annual Belvedere Challenge fun run of walking lanes is Feb. 10"](https://www.thearknewspaper.com/live/second-annual-belvedere-challenge-fun-run-of-walking-lanes-is-feb-10)
 
@@ -77,7 +98,7 @@ The Belvedere Challenge is a race that celebrates the public lanes (aka "secret 
 
 ---
 
-### B.C. I (2023)
+## B.C. I (2023)
 
 ![stair](/img/bc-1/stair.jpg)
 
@@ -86,3 +107,5 @@ The Belvedere Challenge is a race that celebrates the public lanes (aka "secret 
 ![start](/img/bc-1/start.jpeg)
 
 ![woodland](/img/bc-1/woodland.jpeg)
+
+</main>
