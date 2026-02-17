@@ -6,10 +6,6 @@ title: Belvedere Challenge
   <img src="/img/logo.png" width="200"/>
 </p>
 
-<div class="marquee">
-  <span>Sign-up <a href="https://tinyurl.com/belvederechallenge2026" target="_blank">here</a> for the 2026 race (Feb 7, 2026)!</span>
-</div>
-
 <main class="content">
 
 The Belvedere Challenge is a race celebrating the public lanes (aka "secret stairways") of Belvedere, California. The Belvedere Challenge traverses every single publicly-accessible two-way lane on Belvedere Island and Corinthian Island! Anyone can join!
@@ -30,7 +26,7 @@ The Belvedere Challenge is a race celebrating the public lanes (aka "secret stai
 
 ## B.C. IV (Feb. 7, 2026)
 
-Sign ups are live! It's going to be a great day! Sign up for [Belvedere Challenge IV here](https://tinyurl.com/belvederechallenge2026).
+Photos and recap coming soon!
 
 ---
 
