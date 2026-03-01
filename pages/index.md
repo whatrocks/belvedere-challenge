@@ -26,7 +26,7 @@ The Belvedere Challenge is a race celebrating the public lanes (aka "secret stai
 
 ## B.C. IV (Feb. 7, 2026)
 
-Photos and recap coming soon!
+* [The Ark - "Survey drives Belvedere lane repairs, wins council backing" (Photo from Belvedere Challenge IV)](https://www.thearknewspaper.com/live/survey-drives-belvedere-lane-repairs-wins-council-backing)
 
 ---
 
